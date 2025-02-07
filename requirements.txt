@@ -1,0 +1,13 @@
+Flask==3.0.3
+flask-socketio==5.3.6
+langchain==0.1.17
+langchain-core==0.1.52
+langchain-community==0.0.37
+langchain-cohere==0.1.4
+geopy==2.4.1
+faiss-cpu==1.8.0
+rank-bm25==0.2.2
+gpt4all==2.6.0
+cohere==5.3.4
+eventlet==0.36.1
+gunicorn==22.0.0
